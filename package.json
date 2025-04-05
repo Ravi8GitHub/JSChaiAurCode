@@ -1,0 +1,20 @@
+{
+  "name": "jschaiaurcode",
+  "version": "1.0.0",
+  "description": "Just learn JS from Chai Aur Code from Hitesh",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravi8GitHub/JSChaiAurCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravi8GitHub/JSChaiAurCode/issues"
+  },
+  "homepage": "https://github.com/Ravi8GitHub/JSChaiAurCode#readme"
+}
